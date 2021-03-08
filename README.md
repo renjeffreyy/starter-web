@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 ## Practicing git
 
 lorem ipsum
+testing out stuff
+testing out stuff
+testing out stuff
+testing out stuff
+testing out stuff
+testing out stuff
+testing out stuff
+testing out stuff
