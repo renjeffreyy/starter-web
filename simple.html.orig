@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 510px;
+			padding-bottom: 210px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- C	adding change	adding changes before rebasing conflictss before rebasing conflicts 
+	adding changes before rebasin	adding changes before rebasing conflictsg conflicts
+	-->
+	<h1>Just messing around</h1>
+		<p>
+			Just some content that	adding changes before rebasing conflicts i changed just cuz i love star ears	adding changes before rebasing conflicts
+		</p>
+	</main>
+	<footer class="container">
+
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
